@@ -67,4 +67,8 @@ local/
 run.sh
 
 verify_*.py
+
+# ignore claude files
 tmpclaude-*-cwd
+.claude/
+# CLAUDE.md is kept in repo for project guidance
